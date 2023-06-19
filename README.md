@@ -1,1 +1,3 @@
-# Password-Generator
+# Password Generator
+
+THIS SIMPLE PROJECT WAS MADE USING PYTHON LIBRARY FUNCTIONS LIKE string & random.
